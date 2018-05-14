@@ -6,7 +6,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Created by hailong11 on 2018/4/10.
+ * Created by zhanghailong on 2018/4/10.
  */
 
 public class MediaType {

@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.net.ProtocolException;
 
 /**
- * Created by hailong11 on 2018/4/10.
+ * Created by zhanghailong on 2018/4/10.
  */
 
 public class StatusLine {
