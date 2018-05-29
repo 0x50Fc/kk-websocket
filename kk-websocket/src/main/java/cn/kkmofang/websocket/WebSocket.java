@@ -130,7 +130,7 @@ public class WebSocket {
                     }
 
                     if (!validated) {
-                        throw new IOException("No Sec-WebSocket-Accept header.");
+                        //throw new IOException("No Sec-WebSocket-Accept header.");
                     }
 
                     mListener.onConnect();
